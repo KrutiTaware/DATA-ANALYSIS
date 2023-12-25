@@ -69,6 +69,7 @@ Gross income from Customers i.e. income of supermarket and spend b customers
 Customer stratification rating on their overall shopping experience(On a scale 1 to 10, 1 being lowest and 10 being highest)
 
 
+
 **FINAL CONCLUSION:** 
 In conclusion, some of the findings or Observations from the Supermarket Sales Dataset:
 The customer rating is more or less uniform with the mean rating being around 7 and there is no relationship between gross income and customer ratings.
