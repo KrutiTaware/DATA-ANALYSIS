@@ -1,6 +1,5 @@
 
 **INTRODUCTION:**
-
 Supermarket data analysis is the process of examining the vast amount of data collected by supermarkets to gain insights into customer behavior, optimize operations, and improve profitability. By leveraging advanced analytics and data science, supermarkets can make data-driven decisions, personalize marketing strategies, and enhance the overall shopping experience. In this guide, we will delve into the various facets of supermarket data analysis, exploring its importance in today's competitive retail landscape.
 
 
@@ -8,7 +7,6 @@ Supermarket data analysis is the process of examining the vast amount of data co
 The dataset comprises a comprehensive collection of attributes that capture the essence of supermarket sales, ranging from customer demographics to product details. These attributes include branch identifiers, city locations, customer types, gender distributions,
 product categories, unit prices, quantities purchased, Tax 5%, total sales amounts, time, payment methods, cogs, gross income and customer ratings.
 The Supermarket sales data from the Kaggle dataset.
-
 Throughout this project, we employ various data visualization techniques to uncover hidden trends, relationships, and anomalies within the data. Our analytical journey is divided into three types- 
 **Univariate Data Analysis:** Single variable Analysis
 **Bivariate Data Analysis:** Two variable Analysis
@@ -16,7 +14,6 @@ Throughout this project, we employ various data visualization techniques to unco
 
 
 **FAMILIARIZE WITH THE DATASET AND VARIABLES:**
-
 The dataset consists of historical sales data of a supermarket company from 3 different branches over **3 months** from **Jan-March 2019**. 
 The dataset consists of data from 3 cities or 3 branches in **Myanmar** are:
 **Branch A(Yangon)
@@ -73,7 +70,6 @@ Customer stratification rating on their overall shopping experience(On a scale 1
 
 
 **FINAL CONCLUSION:** 
-
 In conclusion, some of the findings or Observations from the Supermarket Sales Dataset:
 The customer rating is more or less uniform with the mean rating being around 7 and there is no relationship between gross income and customer ratings.
 The data consists of 3 cities/branches. Though branch A has slightly higher sales than the rest, C i.e. Naypyitaw is the most profitable branch in terms of gross income.
