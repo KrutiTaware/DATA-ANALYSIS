@@ -16,9 +16,12 @@ Throughout this project, we employ various data visualization techniques to unco
 **FAMILIARIZE WITH THE DATASET AND VARIABLES:**
 The dataset consists of historical sales data of a supermarket company from 3 different branches over **3 months** from **Jan-March 2019**. 
 The dataset consists of data from 3 cities or 3 branches in **Myanmar** are:
-**Branch A(Yangon)
-Branch B(Mandalay)
-Branch C(Naypyitaw)**
+
+**Branch A(Yangon)**
+
+**Branch B(Mandalay)**
+
+**Branch C(Naypyitaw)**
 
 Following table provides a summary of the columns and the columns description:
 
